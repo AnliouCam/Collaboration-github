@@ -1,3 +1,5 @@
 Footer Section
+Contact
+Email
 Phone
 Support
