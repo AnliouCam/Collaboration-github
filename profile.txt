@@ -1,4 +1,5 @@
 User Profile
-Name
-Email
-Avatar
+
+Name:
+Email:
+Avatar:
