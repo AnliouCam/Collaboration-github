@@ -3,3 +3,4 @@ User Profile
 Name:
 Email:
 Avatar:
+Bio:
