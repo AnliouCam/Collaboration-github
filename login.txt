@@ -1,3 +1,6 @@
-Login Form
+User Login
+
 Email:
 Password:
+
+[ Submit ]
