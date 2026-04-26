@@ -7,3 +7,6 @@ if (sum(2, 3) !== 5) {
 }
 
 console.log("All tests passed");
+
+
+//test file CI check
